@@ -45,5 +45,4 @@ My personal GitHub profile – showcasing my skills, interests, and journey in A
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](www.linkedin.com/in/teja-sanjusha-iddum)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/teja-sanjusha-iddum)
