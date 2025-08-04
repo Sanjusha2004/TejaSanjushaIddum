@@ -21,7 +21,7 @@ My personal GitHub profile – showcasing my skills, interests, and journey in A
 
 📫 Reach me at: tejasanjushaiddum@gmail.com
 📍 Location: India  
-🎯 Fun fact: I believe in learning by doing and building things one line at a time!
+🎯 Fun fact: I truly believe in learning through hands-on experience and enjoy building things one line of code at a time!
 
 ---
 
