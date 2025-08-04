@@ -38,7 +38,6 @@ My personal GitHub profile – showcasing my skills, interests, and journey in A
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TejaSanjushaIddum&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TejaSanjushaIddum&layout=compact&theme=tokyonight" width="350"/>
